@@ -8,4 +8,6 @@
 #s5)updating score
 #s6)collided with wall (or) snake collided with its own body
 
+open cmd and type "pip install turtle"
+and then run the main.py file
 
