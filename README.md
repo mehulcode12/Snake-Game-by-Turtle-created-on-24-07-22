@@ -11,4 +11,6 @@ step 6) collided with wall (or) snake collided with its own body
 
 open cmd and type "pip install turtle"
 and then run the main.py file
+   ((OR))
+run this exe file https://github.com/mehulcode12/Snake-Game-by-Turtle-created-on-24-07-22/blob/main/d21-turtle_snake.exe
 
